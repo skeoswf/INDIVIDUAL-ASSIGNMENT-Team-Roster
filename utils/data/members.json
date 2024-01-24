@@ -1,0 +1,16 @@
+{
+  "-MiBsBKGtest-yluJkL-": {
+    "firebaseKey": "-MiBsBKGtest-yluJkL-",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/overwatch-2/8/85/Tracer_Icon_Classic.png?width=325",
+    "name": "tracer",
+    "role": "damage",
+    "uid": ""
+  },
+  "-MiBskntestaBG1-2lQS": {
+    "firebaseKey": "-MiBskntestaBG1-2lQS",
+    "image": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/overwatch-2/4/48/Ana_Icon_Classic.png",
+    "name": "ana",
+    "role": "support",
+    "uid": ""
+  }
+}

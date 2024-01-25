@@ -1,5 +1,5 @@
 module.exports = {
-  extends: ['next', 'next/core-web-vitals', 'prettier', 'airbnb'],
+  extends: ['next', 'next/core-web-vitals', 'prettier', 'airbnb', 'plugin:react/recommended'],
   env: {
     browser: true,
     es2021: true,
